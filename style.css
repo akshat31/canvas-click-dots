@@ -1,0 +1,15 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#canvas1 {
+    background-color: #3c3c3c;
+}
+
+body {
+    width: 100vh;
+    height: 100vh;
+    overflow: hidden;
+}
